@@ -1,0 +1,50 @@
+{
+    "greetings": [
+        "Hello!",
+        "Hi there!",
+        "Greetings!",
+        "Hey! How can I help you?"
+    ],
+    "farewells": [
+        "Goodbye!",
+        "See you later!",
+        "Have a great day!",
+        "Bye for now!"
+    ],
+    "thanks": [
+        "You're welcome!",
+        "No problem at all!",
+        "Happy to help!"
+    ],
+    "unknown": [
+        "I'm not sure I understand. Could you rephrase that?",
+        "I'm still learning. Can you explain that differently?",
+        "I don't know that yet. Would you like to teach me? (yes/no)"
+    ],
+    "time": [
+        "The current time is: {time}"
+    ],
+    "weather": [
+        "I can look up the weather for you! Please provide the city name."
+    ],
+    "jokes": [
+        "Why don't skeletons fight each other? They don't have the guts!",
+        "Why did the scarecrow win an award? Because he was outstanding in his field!"
+    ],
+    "help": [
+        "I'm here to assist! You can ask me questions, talk about various topics, or teach me new things."
+    ],
+    "compliments": [
+        "Thank you! You're amazing too!",
+        "Glad to hear that!"
+    ],
+    "food": [
+        "Pizza is always good!",
+        "Try some pasta today!"
+    ],
+    "learned_responses": {
+        "Who are you": "Ai chatbot",
+        "ok": "Why did the scarecrow win an award? Because he was outstanding in his field! \ud83c\udf3e\ud83d\ude04",
+        "yes": "\ud83c\uddee\ud83c\uddf3 India-Pakistan Tensions Escalate After Pahalgam Attack India and Pakistan are engaged in a severe diplomatic crisis following a terrorist attack on April 22 in Pahalgam, Jammu and Kashmir, which resulted in the deaths of 26 people, primarily Hindu tourists. India has accused Pakistan-based militants of orchestrating the attack, while Pakistan denies involvement and calls for an impartial investigation. In retaliation, India suspended the Indus Waters Treaty, expelled Pakistani diplomats, and closed major border crossings. Pakistan responded by suspending visas for Indian nationals, closing its airspace to Indian flights, and expelling Indian diplomats. China has urged both nations to exercise restraint amid the escalating tensions. \u200b"
+    }
+}
